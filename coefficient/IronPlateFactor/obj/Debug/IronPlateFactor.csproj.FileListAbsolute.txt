@@ -1,0 +1,11 @@
+D:\我的文件\Downloads\0624\WindowsFormsApp1\IronPlateFactor\bin\Debug\IronPlateFactor.dll
+D:\我的文件\Downloads\0624\WindowsFormsApp1\IronPlateFactor\bin\Debug\IronPlateFactor.pdb
+D:\我的文件\Downloads\0624\WindowsFormsApp1\IronPlateFactor\obj\Debug\IronPlateFactor.csproj.CoreCompileInputs.cache
+D:\我的文件\Downloads\0624\WindowsFormsApp1\IronPlateFactor\obj\Debug\IronPlateFactor.dll
+D:\我的文件\Downloads\0624\WindowsFormsApp1\IronPlateFactor\obj\Debug\IronPlateFactor.pdb
+D:\我的文件\Downloads\0624_版本2\0624\WindowsFormsApp1\IronPlateFactor\bin\Debug\IronPlateFactor.dll
+D:\我的文件\Downloads\0624_版本2\0624\WindowsFormsApp1\IronPlateFactor\bin\Debug\IronPlateFactor.pdb
+D:\我的文件\Downloads\0624_版本2\0624\WindowsFormsApp1\IronPlateFactor\obj\Debug\IronPlateFactor.csproj.AssemblyReference.cache
+D:\我的文件\Downloads\0624_版本2\0624\WindowsFormsApp1\IronPlateFactor\obj\Debug\IronPlateFactor.csproj.CoreCompileInputs.cache
+D:\我的文件\Downloads\0624_版本2\0624\WindowsFormsApp1\IronPlateFactor\obj\Debug\IronPlateFactor.dll
+D:\我的文件\Downloads\0624_版本2\0624\WindowsFormsApp1\IronPlateFactor\obj\Debug\IronPlateFactor.pdb

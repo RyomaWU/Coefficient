@@ -1,0 +1,11 @@
+D:\我的文件\Downloads\0624\WindowsFormsApp1\RoundBar\bin\Debug\RoundBar.dll
+D:\我的文件\Downloads\0624\WindowsFormsApp1\RoundBar\bin\Debug\RoundBar.pdb
+D:\我的文件\Downloads\0624\WindowsFormsApp1\RoundBar\obj\Debug\RoundBar.csproj.CoreCompileInputs.cache
+D:\我的文件\Downloads\0624\WindowsFormsApp1\RoundBar\obj\Debug\RoundBar.dll
+D:\我的文件\Downloads\0624\WindowsFormsApp1\RoundBar\obj\Debug\RoundBar.pdb
+D:\我的文件\Downloads\0624_版本2\0624\WindowsFormsApp1\RoundBar\bin\Debug\RoundBar.dll
+D:\我的文件\Downloads\0624_版本2\0624\WindowsFormsApp1\RoundBar\bin\Debug\RoundBar.pdb
+D:\我的文件\Downloads\0624_版本2\0624\WindowsFormsApp1\RoundBar\obj\Debug\RoundBar.csproj.AssemblyReference.cache
+D:\我的文件\Downloads\0624_版本2\0624\WindowsFormsApp1\RoundBar\obj\Debug\RoundBar.csproj.CoreCompileInputs.cache
+D:\我的文件\Downloads\0624_版本2\0624\WindowsFormsApp1\RoundBar\obj\Debug\RoundBar.dll
+D:\我的文件\Downloads\0624_版本2\0624\WindowsFormsApp1\RoundBar\obj\Debug\RoundBar.pdb
